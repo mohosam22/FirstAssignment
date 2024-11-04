@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstAssignment</string>
+    <string name="Title">Meme App</string>
+    <string name="content1">My name is hossm .</string>
+    <string name="content2">I am 20 .</string>
+    <string name="content3">My job is Mobile App Developer.</string>
+
+
+</resources>
