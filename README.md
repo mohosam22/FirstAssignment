@@ -2,7 +2,6 @@ Table of Contents
 Features
 Project Structure
 Requirements
-Installation
 Usage
 Screenshots
 Customization
@@ -19,14 +18,7 @@ Colors: Custom colors used in the app are stored in res/values/colors.xml.
 Requirements
 Android Studio (version X.X or higher)
 An Android device or emulator running Android version Y.Y or higher
-Installation
-Clone this repository to your local machine:
-bash
-نسخ الكود
-git clone https://github.com/your-username/simple-meme-app.git
-Open the project in Android Studio.
-Build the project to download all necessary dependencies.
-Run the app on an emulator or connected Android device.
+
 Usage
 Open the app to view the main screen.
 The screen displays a title at the top, followed by two meme images.
